@@ -25,3 +25,6 @@ xcuserdata
 .vs
 .vscode
 Xcode/build.xcconfig
+
+# Cinix-specific
+*.make
